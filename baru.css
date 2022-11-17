@@ -1,0 +1,30 @@
+p {
+  text-align:center;
+}
+
+
+.haha {
+  text-align: center;
+  justify-content: center;
+}
+
+
+img{
+  width:360px;
+  height:200px;
+}
+
+
+
+.kopikanan {
+  display:flex;
+  margin-top: 50px;
+  padding:20px;
+  text-align:center;
+  justify-content: center;
+  background-color: black;
+  color:white;
+  font:.1em;
+  font-weight: 300;
+  
+}

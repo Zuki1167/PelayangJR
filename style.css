@@ -1,0 +1,64 @@
+*,html, body {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+
+.Judul {
+  display: flex;
+  text-align:center;
+  justify-content: center;
+  font-size: 1.2em;
+  font-weight:700;
+}
+
+
+.pilihan {
+  display:flex;
+  justify-content: center;
+  list-style-type: none;
+  padding:10px;
+}
+
+
+a {
+  text-decoration: none;
+  color:crimson;
+  margin:2px;
+}
+
+a:hover {
+  color:brown;
+}
+
+
+.img {
+  display:flex;
+  width:110px;
+  height:200px
+}
+
+
+h3 {
+  padding:20px;
+  text-align: center;
+}
+
+.tulisan {
+  text-align: center;
+}
+
+
+.kopikanan {
+  display:flex;
+  margin-top: 50px;
+  padding:20px;
+  text-align:center;
+  justify-content: center;
+  background-color: black;
+  color:white;
+  font:.1em;
+  font-weight: 300;
+  
+}
